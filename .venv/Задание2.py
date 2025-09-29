@@ -1,2 +1,2 @@
-price_S, price_N = map(int, input().split())
-print(price_S + price_N)
+name1, name2 = map(str, input().split())
+print(name1, name2, sep="\n")

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="263de100-31a4-44b9-b2a0-fa3034a0164c" name="Changes" comment="2">
-      <change afterPath="$PROJECT_DIR$/.venv/Задание3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Задание2.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Задание2.py" afterDir="false" />
+    <list default="true" id="263de100-31a4-44b9-b2a0-fa3034a0164c" name="Changes" comment="6">
+      <change beforePath="$PROJECT_DIR$/.venv/Задание5.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Задание5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,9 @@
     "Python.Задание1.executor": "Run",
     "Python.Задание2.executor": "Run",
     "Python.Задание3.executor": "Run",
+    "Python.Задание4.executor": "Run",
+    "Python.Задание5.executor": "Run",
+    "Python.Задание6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -95,12 +97,48 @@
       <option name="project" value="LOCAL" />
       <updated>1759155519973</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3">
+      <option name="closed" value="true" />
+      <created>1759155920019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759155920019</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4">
+      <option name="closed" value="true" />
+      <created>1759155990557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759155990557</updated>
+    </task>
+    <task id="LOCAL-00006" summary="5">
+      <option name="closed" value="true" />
+      <created>1759156076375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759156076375</updated>
+    </task>
+    <task id="LOCAL-00007" summary="6">
+      <option name="closed" value="true" />
+      <created>1759156175372</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759156175372</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="3" />
+    <MESSAGE value="4" />
+    <MESSAGE value="5" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
 </project>
