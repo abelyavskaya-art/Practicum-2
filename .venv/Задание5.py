@@ -1,3 +1,4 @@
-money = float(input())
-benefit = (money * 19) / 100
-print(round(benefit, 2))
+weight = float(input())
+height = float(input())
+BMI = (weight / (height**2)) * 703
+print(round(BMI, 2))
